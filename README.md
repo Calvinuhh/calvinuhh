@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
+Junior Backend Developer graduated from the Bootcamp Soy Henry, experience and projects in the PERN Stack, knowledge in mongoDB and Mongoose, JWT and Mercado Pago API, I am constantly updating myself about new trends and technologies in web development, constantly deepening the technologies that I already master, I consider that I can contribute great value in the Backend development part, especially with Express.js since it is the framework with which I have practiced and developed projects the most.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/calvin-howard-853895283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/calvin-howard-853895283/" height="30" width="40" /></a>
