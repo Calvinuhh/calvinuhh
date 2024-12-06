@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calvin Howard</h1>
-<h3 align="center">A junior Backend Developer graduate from the bootcamp soy HENRY</h3>
+<h3 align="center">junior Backend Developer || Full-Stack Developer</h3>
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
