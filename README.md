@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
-Junior Backend Developer, experience and projects in PERN and MERN Stack, JWT and Mercado Pago API , I am constantly updating myself about new trends and technologies in web development, constantly deepening the technologies that I already master, I consider that I can contribute great value in the Backend development, especially with Express.js since it is the framework with which I have practiced and developed projects the most.
+Backend Developer || Full Stack Developer, experience and projects in PERN and MERN Stack, JWT and Mercado Pago API , I am constantly updating myself about new trends and technologies in web development, constantly deepening the technologies that I already master, I consider that I can contribute great value in the Backend development, especially with Express.js since it is the framework with which I have practiced and developed projects the most.
 
 I realized that the market increasingly demands more TypeScript, so I am working on projects like APIs in TypeScript to improve my skills and scalability of my applications.
 
