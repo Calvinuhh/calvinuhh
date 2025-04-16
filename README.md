@@ -3,9 +3,13 @@
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
-Backend Developer || Full Stack Developer, experience and projects in PERN and MERN Stack, JWT and Mercado Pago API , I am constantly updating myself about new trends and technologies in web development, constantly deepening the technologies that I already master, I consider that I can contribute great value in the Backend development, especially with Express.js since it is the framework with which I have practiced and developed projects the most.
+Backend developer with experience in the PERN and MERN stacks, with a strong focus on creating scalable and efficient APIs.
 
-I realized that the market increasingly demands more TypeScript, so I am working on projects like APIs in TypeScript to improve my skills and scalability of my applications.
+Express.js is the framework I've worked with the most, developing multiple projects that have allowed me to gain a deep understanding of its ecosystem.
+
+My experience with TypeScript allows me to develop more robust, maintainable, and scalable applications. I've worked on building APIs using TypeScript as part of my ongoing improvement and professionalization process.
+
+I'm currently developing automations with the n8n tool, integrating Artificial Intelligence models such as those from OpenAI, to leverage the potential of AI in business process automation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
