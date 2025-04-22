@@ -9,7 +9,7 @@ Express.js is the framework I've worked with the most, developing multiple proje
 
 My experience with TypeScript allows me to develop more robust, maintainable, and scalable applications. I've worked on building APIs using TypeScript as part of my ongoing improvement and professionalization process.
 
-I'm currently developing automations with the n8n tool, integrating Artificial Intelligence models such as those from OpenAI, to leverage the potential of AI in business process automation.
+I'm currently developing automations with the n8n tool, integrating Artificial Intelligence models such as those from OpenAI, to leverage the potential of AI in automating processes with different approaches.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
