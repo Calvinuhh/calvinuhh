@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Calvin Howard</h1>
-<h3 align="center">Backend Developer || Full-Stack Developer</h3>
+<h3 align="center">Automations & AI Integrations | n8n Specialist</h3>
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
-Backend developer with experience in the PERN and MERN stacks, with a strong focus on creating scalable and efficient APIs.
+I am a specialist in automation and AI integrations, with experience developing custom solutions for companies looking to optimize processes, save time, and reduce costs.
 
-Express.js is the framework I've worked with the most, developing multiple projects that have allowed me to gain a deep understanding of its ecosystem.
+I primarily work with n8n, a tool through which I have orchestrated complex workflows by connecting multiple APIs, external services, and internal systems (including enterprise backends). This has allowed me to gain a deep understanding of the n8n ecosystem and face real-world challenges in the implementation of effective automations.
 
-My experience with TypeScript allows me to develop more robust, maintainable, and scalable applications. I've worked on building APIs using TypeScript as part of my ongoing improvement and professionalization process.
+In addition, I integrate AI models such as OpenAI, enhancing chatbots, information processing, and other intelligent solutions to improve organizational efficiency and productivity.
 
-I'm currently developing automations with the n8n tool, integrating Artificial Intelligence models such as those from OpenAI, to leverage the potential of AI in automating processes with different approaches.
+I am passionate about creating scalable and sustainable integrations that deliver tangible business value.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
