@@ -3,13 +3,13 @@
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
-I am a specialist in automation and AI integrations, with experience developing custom solutions for companies looking to optimize processes, save time, and reduce costs.
+Full-Stack developer with specialized experience in automations with n8n and integrations with Generative Artificial Intelligence. I have extensive experience in creating complex flows to optimize processes, combining the most up-to-date development technologies with robust automation strategies.
 
-I primarily work with n8n, a tool through which I have orchestrated complex workflows by connecting multiple APIs, external services, and internal systems (including enterprise backends). This has allowed me to gain a deep understanding of the n8n ecosystem and face real-world challenges in the implementation of effective automations.
+Management of integrations with REST APIs and external services, guaranteeing scalability and efficiency in the solutions. I have worked connecting multiple platforms, internal systems and business backends, acquiring a deep knowledge of the automation ecosystem and tool orchestration.
 
-In addition, I integrate AI models such as OpenAI, enhancing chatbots, information processing, and other intelligent solutions to improve organizational efficiency and productivity.
+My technical background includes ElysiaJS, Express.js, TypeScript, Next.js, Prisma, relational and non-relational databases, Docker, MVC architecture and JWT authentication. This strength in web development allows me to design solutions that go beyond scripts: scalable and maintainable architectures.
 
-I am passionate about creating scalable and sustainable integrations that deliver tangible business value.
+which allows me to build robust and scalable applications, from the design of backend architectures to the implementation of dynamic interfaces on the frontend, delivering complete, efficient and business-oriented solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
