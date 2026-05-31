@@ -3,13 +3,15 @@
 
 - 📫 How to reach me **calvin.uhh@gmail.com**
 
-Full-Stack developer with specialized experience in automations with n8n and integrations with Generative Artificial Intelligence. I have extensive experience in creating complex flows to optimize processes, combining the most up-to-date development technologies with robust automation strategies.
+Full-Stack Developer with experience in n8n automations and Generative AI
+integrations, skilled at building complex workflows to optimize processes. Proficient
+in REST API integrations and third-party services, ensuring scalability and efficiency. I
+have a background in web development (ElysiaJS, Express.js, TypeScript, Next.js,
+Prisma, relational and non-relational databases, Docker, MVC architecture, JWT
+authentication), which allows me to build robust and scalable applications from
+backend architecture design to dynamic frontend implementation delivering complete,
+efficient, and business-oriented solutions.
 
-Management of integrations with REST APIs and external services, guaranteeing scalability and efficiency in the solutions. I have worked connecting multiple platforms, internal systems and business backends, acquiring a deep knowledge of the automation ecosystem and tool orchestration.
-
-My technical background includes ElysiaJS, Express.js, TypeScript, Next.js, Prisma, relational and non-relational databases, Docker, MVC architecture and JWT authentication. This strength in web development allows me to design solutions that go beyond scripts: scalable and maintainable architectures.
-
-which allows me to build robust and scalable applications, from the design of backend architectures to the implementation of dynamic interfaces on the frontend, delivering complete, efficient and business-oriented solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
