@@ -6,7 +6,7 @@
 Full-Stack Developer with experience in n8n automations and Generative AI
 integrations, skilled at building complex workflows to optimize processes. Proficient
 in REST API integrations and third-party services, ensuring scalability and efficiency. I
-have a background in web development (ElysiaJS, Express.js, TypeScript, Next.js,
+have a background in web development (Hono.js, Express.js, TypeScript, Next.js,
 Prisma, relational and non-relational databases, Docker, MVC architecture, JWT
 authentication), which allows me to build robust and scalable applications from
 backend architecture design to dynamic frontend implementation delivering complete,
