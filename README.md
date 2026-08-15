@@ -53,7 +53,7 @@ integration for a US-based cleaning company.
 | ------------------- | ------------------------------------------------------------------------------------------ |
 | **Automation & AI** | n8n, OpenAI API, Azure AI Foundry, LLM workflows                                           |
 | **Backend & APIs**  | TypeScript, Node.js, Bun, Python, FastAPI, Hono, ElysiaJS, Express.js, REST APIs, webhooks |
-| **Web**             | Next.js, React, Vue, Astro, HTML, CSS                                                      |
+| **Web**             | Next.js, React, Vue, HTML, CSS                                                      |
 | **Data**            | PostgreSQL, MongoDB, Redis, Prisma, Drizzle ORM, SQLAlchemy                                |
 | **Infrastructure**  | Docker, GitHub, Cloudflare R2, FFmpeg                                                      |
 | **Integrations**    | WhatsApp Business API, Salesforce, Calendly, Microsoft Graph, Google Workspace, Airtable   |
