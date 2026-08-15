@@ -1,25 +1,73 @@
-<h1 align="center">Hi 👋, I'm Calvin Howard</h1>
-<h3 align="center">Automations & AI Integrations | n8n Specialist</h3>
+<div align="center">
 
-- 📫 How to reach me **calvin.uhh@gmail.com**
+# Calvin Howard
 
-Full-Stack Developer with experience in n8n automations and Generative AI
-integrations, skilled at building complex workflows to optimize processes. Proficient
-in REST API integrations and third-party services, ensuring scalability and efficiency. I
-have a background in web development (Hono.js, Express.js, TypeScript, Next.js,
-Prisma, relational and non-relational databases, Docker, MVC architecture, JWT
-authentication), which allows me to build robust and scalable applications from
-backend architecture design to dynamic frontend implementation delivering complete,
-efficient, and business-oriented solutions.
+### Full-Stack Developer | AI Automation & Backend Integrations
 
+Bogota, Colombia | English B2
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/calvin-howard-853895283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/calvin-howard-853895283/" height="30" width="40" /></a>
-<a href="https://fb.com/calvin.howardhoward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calvin.howardhoward" height="30" width="40" /></a>
-<a href="https://instagram.com/calvinuhh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calvinuhh98" height="30" width="40" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-calvin.uhh%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:calvin.uhh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Calvin_Howard-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-howard-853895283/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
+## About
+
+I build AI-powered automations and backend integrations that turn complex
+business processes into scalable, maintainable systems. My work combines
+**n8n**, generative AI, REST APIs, and full-stack development to connect
+business platforms, orchestrate workflows, and deliver measurable operational
+results.
+
+I have developed integration solutions for real estate, travel, payroll, sales,
+marketing, and internal operations, ranging from workflow orchestration and
+document processing to multimedia platforms and enterprise API integrations.
+
+## Experience
+
+**Freelance Developer — Buffalo AI** | Oct 2025 - Present  
+Develop integration solutions with n8n and FastAPI. Led the delivery of a
+real-estate lead automation system covering appointment booking, human
+handoffs, and multi-attempt processing logic.
+
+**Freelance Developer — Cyclenode** | Oct 2025 - Jun 2026  
+Built Next.js solutions and n8n-based AI integrations, including an automated
+text-to-video platform using AI-generated images, ElevenLabs voice synthesis,
+and FFmpeg rendering.
+
+**Automation Developer — El Laboratorio** | Apr 2025 - Oct 2025  
+Designed n8n and AI workflows integrating Airtable, Gmail, Google Calendar, and
+other services to optimize internal business processes.
+
+**Developer Intern — TiNegocios** | Jan 2025 - Apr 2025  
+Maintained CodeIgniter applications, modernized legacy code, and improved
+database design and server-query performance.
+
+**Web Developer — My Cleaning Solution** | Dec 2023 - Jun 2024  
+Developed an Astro website with service-request functionality and EmailJS
+integration for a US-based cleaning company.
+
+## Core Stack
+
+| Area                | Technologies                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| **Automation & AI** | n8n, OpenAI API, Azure AI Foundry, LLM workflows                                           |
+| **Backend & APIs**  | TypeScript, Node.js, Bun, Python, FastAPI, Hono, ElysiaJS, Express.js, REST APIs, webhooks |
+| **Web**             | Next.js, React, Vue, Astro, HTML, CSS                                                      |
+| **Data**            | PostgreSQL, MongoDB, Redis, Prisma, Drizzle ORM, SQLAlchemy                                |
+| **Infrastructure**  | Docker, GitHub, Cloudflare R2, FFmpeg                                                      |
+| **Integrations**    | WhatsApp Business API, Salesforce, Calendly, Microsoft Graph, Google Workspace, Airtable   |
+
+## Education & Credentials
+
+- **Full Stack Developer Bootcamp**, Soy Henry (2023-2024) — JavaScript,
+  Node.js, React, Express, relational databases, authentication, and payments.
+- [**AI Software Engineer**](https://platzi.com/calvin.uhh/ruta/29220-ruta/diploma-og/og.jpeg), Platzi.
+- [**English C1 Advanced, 67/100**](https://cert.efset.org/y47C83), EF SET.
+- [**Full Stack Developer Certificate**](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=90919c4249f9deb146a1fe52bbcd7e4f9f95168fbe985954a2f1b5689133f933), Soy Henry.
+
+## Contact
+
+- Email: [calvin.uhh@gmail.com](mailto:calvin.uhh@gmail.com)
+- LinkedIn: [Calvin Howard](https://www.linkedin.com/in/calvin-howard-853895283/)
+- GitHub: [@Calvinuhh](https://github.com/Calvinuhh)
