@@ -25,8 +25,13 @@ document processing to multimedia platforms and enterprise API integrations.
 
 ## Experience
 
-**Freelance Developer — Buffalo AI** | Oct 2025 - Present  
-Develop integration solutions with n8n and FastAPI. Led the delivery of a
+**Semi-Senior Developer — SHOFI** | Sep 2026 - Present | Hybrid  
+Improve and maintain the company's web application, build new features, and
+track and resolve tickets in Jira. Implement AI agents and add agent layers on
+top of the existing platform.
+
+**Freelance Developer — Buffalo AI** | Oct 2025 - Sep 2026  
+Developed integration solutions with n8n and FastAPI. Led the delivery of a
 real-estate lead automation system covering appointment booking, human
 handoffs, and multi-attempt processing logic.
 
@@ -42,10 +47,6 @@ other services to optimize internal business processes.
 **Developer Intern — TiNegocios** | Jan 2025 - Apr 2025  
 Maintained CodeIgniter applications, modernized legacy code, and improved
 database design and server-query performance.
-
-**Web Developer — My Cleaning Solution** | Dec 2023 - Jun 2024  
-Developed an Astro website with service-request functionality and EmailJS
-integration for a US-based cleaning company.
 
 ## Core Stack
 
